@@ -1,12 +1,10 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development](![linkedincover](https://github.com/FADILAMEEN4321/fadilameen4321/assets/129923924/b94c45a0-2d61-45e5-9eca-81f92fcf7b74)
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+# Fadil Ameen V.M
+I'm Fadil Ameen V.M from India. I am a self-taught full-stack web developer. I really enjoy learning languages and frameworks like React and Django.
 
 ## Skills and Experience
 * ⚛ React
-* 📱 React Native
+* 📱 Django
 * 💻 HTML, CSS, JS
 
-## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
