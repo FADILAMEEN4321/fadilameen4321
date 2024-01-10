@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Fadil Ameen V.M
 ![Frame 2 (1)](https://github.com/FADILAMEEN4321/fadilameen4321/assets/129923924/71668ceb-9987-45dd-8bd8-5b5f4ce75c60)
 
-## About Me 🚀
+## About Me 👨‍💻
 I'm a self-taught full-stack developer with a knack for crafting magic with Django and React.js. Forever on the learning curve, I see web development not just as crafting applications, but as the art of solving real-world human problems. This narrative fuels my passion to do more, learn more, and create impactful solutions.
 
-## My Tools 🛠️
+## Tech I Know 🛠️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
