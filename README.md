@@ -3,7 +3,7 @@
 
 ## About Me 👨‍💻
 I'm a self-taught full-stack developer with a knack for crafting magic with Django and React.js. Forever on the learning curve, I see web development not just as crafting applications, but as the art of solving real-world human problems. This narrative fuels my passion to do more, learn more, and create impactful solutions.
-<a href="https://app.daily.dev/fadilameen"><img src="https://api.daily.dev/devcards/6d892cdf181543518bdf13712d8871dd.png?r=72x" width="400" alt="fadil ameen's Dev Card"/></a>
+
 ## Tech I Know 🛠️
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -14,3 +14,5 @@ I'm a self-taught full-stack developer with a knack for crafting magic with Djan
 ## Let's Build Together! 🚀
 
 Feel free to explore my projects and connect. Let's turn ideas into reality! 🌟
+
+<a href="https://app.daily.dev/fadilameen"><img src="https://api.daily.dev/devcards/6d892cdf181543518bdf13712d8871dd.png?r=72x" width="400" alt="fadil ameen's Dev Card"/></a>
