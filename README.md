@@ -13,7 +13,6 @@ I'm a self-taught full-stack developer with a knack for crafting magic with Djan
 ## My Stats 📊
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fadilameen4321/fadilameen4321/blob/main/devcard.svg" width="400" alt="fadil ameen's Dev Card"/></a>
 
-
 ## Let's Build Together! 🚀
 
 Feel free to explore my projects and connect. Let's turn ideas into reality! 🌟
